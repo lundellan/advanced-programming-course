@@ -1,0 +1,16 @@
+
+b
+java:S1128"/Remove this unused import 'java.awt.Container'.(ƒΧ‹8ΦΧζΪ.HβRMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Αωÿÿÿÿ8„τ“Ò.H®RMINORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'javax.swing.JList'.(ω›ΒΓόÿÿÿÿ8°•τα.H§"RMINORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ξτ›I8‹Θ—τα.H΄"RMINORZ
+CODE_SMELL
+g
+java:S1128"4Remove this unused import 'javax.swing.JScrollPane'.(ΚΉ“ύ8°•τα.H¦"RMINORZ
+CODE_SMELL

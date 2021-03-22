@@ -1,0 +1,19 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(¦ËìŞ8Ãù”èÏ.HˆRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Á˜ùÿÿÿÿ8ıµ¬ĞÏ.H»RMINORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(ì˜Ó»ıÿÿÿÿ8ÁùÒäÏ.H¼RMAJORZ
+CODE_SMELL
+s	java:S125&"<This block of commented-out lines of code should be removed.(ÀèÅòøÿÿÿÿ8äÊÓäÏ.HÀRMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8û›ÍèÏ.H«RMINORZ
+CODE_SMELL
+h
+java:S1128	"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ8­‰¿“Ò.H–RMINORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(áŠ¾õ8 Èç¬Í.HÄRMAJORZ
+CODE_SMELL

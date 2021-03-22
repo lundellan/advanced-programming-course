@@ -1,0 +1,15 @@
+
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(¨όβρÿÿÿÿÿ8ηΙίδΟ.HΚRMAJORZ
+CODE_SMELL
+S
+java:S2386"Make this member "protected".(±ΦΨ―8»γΙ.HύRMINORZVULNERABILITY
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ξτ›I8ΟΦηΙ.H†RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.( ¶΅όÿÿÿÿ8Φ‹λΙ.HRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(©όήΊψÿÿÿÿ8”Θ‹ΡΟ.HΗRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Αωÿÿÿÿ8 ÿδΟ.HχRMINORZ
+CODE_SMELL

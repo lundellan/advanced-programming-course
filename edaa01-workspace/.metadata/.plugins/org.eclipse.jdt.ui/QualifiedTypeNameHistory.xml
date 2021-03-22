@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JFileChooser"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.Opcode.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
+    <fullyQualifiedTypeName name="jdk.internal.platform.Container"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+    <fullyQualifiedTypeName name="javax.swing.JList"/>
+    <fullyQualifiedTypeName name="java.awt.Container"/>
+    <fullyQualifiedTypeName name="fractal.Fractal"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="mountain.Point"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="solver.SudokuSolver"/>
+    <fullyQualifiedTypeName name="GUI.SudokuGUI"/>
+</qualifiedTypeNameHistroy>

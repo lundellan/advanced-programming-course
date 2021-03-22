@@ -1,0 +1,8 @@
+
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(Äîâ€H£RMAJORZ
+CODE_SMELL
+‘
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(®ÅÜ¯ÿÿÿÿÿ8¼òÅƒÉ.HÀRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ì‰ñàýÿÿÿÿ8ð¼ÈƒÉ.HÁRMAJORZ
+CODE_SMELL
