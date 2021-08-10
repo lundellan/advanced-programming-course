@@ -1,9 +1,0 @@
-
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿHÉ-RMINORZ
-CODE_SMELL
-`
-java:S1948"%Make "gui" transient or serializable.(æçøöúÿÿÿÿ8øÏèÄå.Hï-RCRITICALZ
-CODE_SMELL
-n	java:S110
-"<This class has 6 parents which is greater than 5 authorized.(ÿ¶Ï8øÏèÄå.Hî-RMAJORZ
-CODE_SMELL

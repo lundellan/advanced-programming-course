@@ -101,8 +101,9 @@ public class TurtleGraphics {
 		return alpha;
 	}
 
-	/** Lifts the turtles pen. 
-	 */
+	/** 
+	 * Lifts the turtles pen.
+	 * /
 	public void penUp() {
 		isPenDown = false;
 	}

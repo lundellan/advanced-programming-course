@@ -1,8 +1,0 @@
-
-s	java:S110"<This class has 6 parents which is greater than 5 authorized.(®ØÅøÿÿÿÿ8ú¹–´å.H-RMAJORZ
-CODE_SMELL
-|
-java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(½¸“çøÿÿÿÿ8áã´å.Hõ,RCRITICALZ
-CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿHå,RMINORZ
-CODE_SMELL

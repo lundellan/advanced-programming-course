@@ -1,22 +1,0 @@
-
-d
-java:S16025",Remove useless curly braces around statement(ÖŸ©šùÿÿÿÿ8©õø÷á.H%RMINORZ
-CODE_SMELL
-f
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Œ¡ËæÚ.H RMINORZ
-CODE_SMELL
-d
-java:S1128	"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8‡‡ãåã.HŞ&RMINORZ
-CODE_SMELL
-d
-java:S1602/",Remove useless curly braces around statement(Ë¼ãäúÿÿÿÿ8äåù÷á.HŸ%RMINORZ
-CODE_SMELL
-b
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ğéˆ â.HÀ%RMINORZ
-CODE_SMELL
-
-java:S3252!"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ó’å“Ò.HõRCRITICALZ
-CODE_SMELL
-\
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Œ¡ËæÚ.H¡RMINORZ
-CODE_SMELL

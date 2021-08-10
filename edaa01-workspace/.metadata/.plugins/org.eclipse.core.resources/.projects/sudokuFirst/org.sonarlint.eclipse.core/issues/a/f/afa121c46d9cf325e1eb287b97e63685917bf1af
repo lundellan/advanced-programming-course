@@ -1,9 +1,0 @@
-
-n	java:S110
-"<This class has 6 parents which is greater than 5 authorized.(ÿ¶Ï8Ñ»æ½ä.Hõ(RMAJORZ
-CODE_SMELL
-`
-java:S1948"%Make "gui" transient or serializable.(µ¢«øıÿÿÿÿ8Ñ»æ½ä.Hö(RCRITICALZ
-CODE_SMELL
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿHÅ(RMINORZ
-CODE_SMELL

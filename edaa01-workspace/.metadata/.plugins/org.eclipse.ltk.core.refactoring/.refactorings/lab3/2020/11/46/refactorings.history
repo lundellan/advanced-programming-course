@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;nilsholg.txt&apos; to &apos;lab3/src/textproc&apos;&#x0A;- Original project: &apos;lab3&apos;&#x0A;- Destination element: &apos;lab3/src/textproc&apos;&#x0A;- Original element: &apos;nilsholg.txt&apos;" description="Copy file" destination="/src&lt;textproc" element1="nilsholg.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1604922234027" units="0" version="1.0"/>
-</session>

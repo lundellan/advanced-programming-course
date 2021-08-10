@@ -21,7 +21,6 @@
             <entry path="/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
-    <libraryInfo home="/Users/jacoblundell/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955" version="15.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" version="11.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home" version="1.8.0_112">
         <bootpath>
@@ -46,6 +45,5 @@
             <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
-    <libraryInfo home="/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home" version="11.0.5"/>
-    <libraryInfo home="/Users/jacoblundell/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955/jre" version="15.0.2"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home" version="11.0.4"/>
 </libraryInfos>

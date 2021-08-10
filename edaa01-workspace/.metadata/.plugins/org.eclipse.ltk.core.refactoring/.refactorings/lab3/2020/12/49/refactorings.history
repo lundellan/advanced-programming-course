@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;buttons&apos; in &apos;textproc.BookReaderController.createWindow(...)&apos; to &apos;controls&apos;&#x0A;- Original project: &apos;lab3&apos;&#x0A;- Original element: &apos;textproc.BookReaderController.createWindow(GeneralWordCounter, String, int, int).buttons&apos;&#x0A;- Renamed element: &apos;buttons&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;buttons&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;textproc{BookReaderController.java[BookReaderController~createWindow~QGeneralWordCounter;~QString;~I~I@buttons!1248!1277!1255!1261!QJPanel;!0!false" name="controls" references="true" stamp="1606836795015" version="1.0"/>
-</session>
