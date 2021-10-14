@@ -1,5 +1,6 @@
 package textproc;
 
+import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -12,8 +13,22 @@ public class Holgersson {
 			"öland", "östergötland" };
 
 	public static void main(String[] args) throws FileNotFoundException {
+		long t0 = System.nanoTime();
 		
-		TextProcessor p = new SingleWordCounter("nils");
+//		List<TextProcessor> list = new ArrayList<>();
+//		list.add(new SingleWordCounter("nils"));
+//		list.add(new SingleWordCounter("norge"));
+		
+//		MultiWordCounter counter = new MultiWordCounter(REGIONS);
+		
+		Scanner scan = new Scanner(new File("undantagsord.txt"));
+		Set<String> stopwords = new HashSet<>();
+		
+		while (scan.hasNext())	{
+			stopwords.add(scan.next());
+		}
+		
+		GeneralWordCounter counter = new GeneralWordCounter(stopwords);
 
 		Scanner s = new Scanner(new File("nilsholg.txt"));
 		s.findWithinHorizon("\uFEFF", 1);
@@ -22,11 +37,23 @@ public class Holgersson {
 		while (s.hasNext()) {
 			String word = s.next().toLowerCase();
 
-			p.process(word);
+			counter.process(word);
+			
+//			for (TextProcessor p : list)	{
+//				p.process(word);
+//			}
 		}
 
 		s.close();
+		
+		counter.report();
+		
+		long t1 = System.nanoTime();
 
-		p.report();
+		System.out.println("tid: " + (t1 - t0) / 1000000.0 + " ms");
+
+//		for (TextProcessor p : list)	{
+//			p.report();
+//		}
 	}
 }

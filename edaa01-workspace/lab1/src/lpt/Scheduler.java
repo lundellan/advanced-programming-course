@@ -9,7 +9,7 @@ public class Scheduler {
 		i vektorn machines. */
 	
 	public Scheduler(Machine[] machineArray) {
-		Machine[] machines = machineArray;
+		machines = machineArray;
 	}
 	
 	/* Returnerar den maskin som har minst att göra. */
@@ -45,7 +45,7 @@ public class Scheduler {
 
 	/** Skriver ut maskinernas scheman. */
 	public void printSchedule() {
-		for (int i = 0; i <= machines.length; i++) {
+		for (int i = 0; i < machines.length; i++) {
 			System.out.println(machines[i]);
 		}
 	}

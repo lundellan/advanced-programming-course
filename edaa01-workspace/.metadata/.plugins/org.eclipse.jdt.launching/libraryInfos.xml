@@ -21,6 +21,8 @@
             <entry path="/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\Users\Jacob\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149" version="16.0.2"/>
+    <libraryInfo home="C:\Users\Jacob\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre" version="16.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" version="11.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home" version="1.8.0_112">
         <bootpath>
