@@ -1,0 +1,15 @@
+package mountain;
+
+import fractal.*;
+
+public class Mountain extends Fractal {
+	Point[] points;
+	
+	public Mountain(Point[] points)	{
+		super();
+		this.points = points;
+	}
+	
+	
+	
+}

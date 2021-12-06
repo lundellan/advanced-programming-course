@@ -1,11 +1,14 @@
 package fractal;
 
 import koch.Koch;
+import mountain.*;
 
 public class FractalApplication {
 	public static void main(String[] args) {
-		Fractal[] fractals = new Fractal[1];
+		Fractal[] fractals = new Fractal[3];
 		fractals[0] = new Koch(300);
+		fractals[1] = new Mountain(new Point(200, 50), new Point(50, 250), new Point(450, 275));
+		fractals[2] = new IrregularMountain(new Point(200, 50), new Point(50, 250), new Point(450, 275), 75);
 	    new FractalView(fractals, "Fraktaler", 600, 600);
 	}
 

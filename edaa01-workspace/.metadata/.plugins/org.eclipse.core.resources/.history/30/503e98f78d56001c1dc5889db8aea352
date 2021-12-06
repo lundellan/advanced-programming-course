@@ -1,0 +1,21 @@
+package fractal;
+
+import koch.Koch;
+import mountain.*;
+
+public class FractalApplication {
+	public static void main(String[] args) {
+		Fractal[] fractals = new Fractal[2];
+		fractals[0] = new Koch(300);
+		
+		Point topMiddle = new Point(200, 0);
+		Point bottomLeft = new Point(0, 180);
+		Point bottomRight = new Point(400, 180);
+		
+		Point[] points = [topMiddle, bottomLeft, bottomRight];
+		
+		fractals[1] = new Mountain([topMiddle, bottomLeft, bottomRight])
+	    new FractalView(fractals, "Fraktaler", 600, 600);
+	}
+
+}

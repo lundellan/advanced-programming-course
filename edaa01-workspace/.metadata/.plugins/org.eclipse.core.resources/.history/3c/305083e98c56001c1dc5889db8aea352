@@ -1,0 +1,7 @@
+package mountain;
+
+import fractal.*;
+
+public class Mountain extends Fractal {
+
+}

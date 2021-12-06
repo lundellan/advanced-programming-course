@@ -23,6 +23,7 @@
     </libraryInfo>
     <libraryInfo home="C:\Users\Jacob\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149" version="16.0.2"/>
     <libraryInfo home="C:\Users\Jacob\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre" version="16.0.2"/>
+    <libraryInfo home="/Users/jacoblundell/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955" version="15.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" version="11.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home" version="1.8.0_112">
         <bootpath>
@@ -48,4 +49,5 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home" version="11.0.4"/>
+    <libraryInfo home="/Users/jacoblundell/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955/jre" version="15.0.2"/>
 </libraryInfos>

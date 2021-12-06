@@ -1,0 +1,36 @@
+package mountain;
+
+import fractal.*;
+
+public class Mountain extends Fractal {
+	Point a;
+	Point b;
+	Point c;
+	
+	public Mountain(Point a, Point b, Point c)	{
+		super();
+		this.a = a;
+		this.b = b;
+		this.c = c;
+	}
+	
+	@Override
+	
+	public String getTitle()	{
+		return "Berg";
+	}
+	
+	@Override
+	public void draw(TurtleGraphics turtle)	{
+		turtle.moveTo(a.getX(), a.getY());
+		turtle.penDown();
+		turtle.forwardTo(b.getX(), b.getY());
+		turtle.forwardTo(c.getX(), c.getY());
+		turtle.forwardTo(a.getX(), a.getY());
+	}
+	
+	private void fractalLine(TurtleGraphics turtle, int order, double length, int alpha)	{
+		
+	}
+	
+}
