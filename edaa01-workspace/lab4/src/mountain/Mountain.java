@@ -43,7 +43,6 @@ public class Mountain extends Fractal {
 	}
 
 	private Point midPoint(Point a, Point b) {
-
 		int midX = (a.getX() + b.getX()) / 2;
 		int midY = (a.getY() + b.getY()) / 2;
 		return new Point(midX, midY);

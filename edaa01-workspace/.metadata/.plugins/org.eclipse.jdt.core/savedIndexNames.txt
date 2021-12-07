@@ -1,23 +1,9 @@
 INDEX VERSION 1.131+/Users/jacoblundell/Documents/advanced-programming-course/edaa01-workspace/.metadata/.plugins/org.eclipse.jdt.core
-3574535145.index
-3037658950.index
-2976400506.index
-203263456.index
 1431162455.index
 3141775227.index
 3408485364.index
-3584571159.index
-2138517203.index
-1008439964.index
-3359110743.index
-3057668895.index
-3277424974.index
-1072678031.index
 2089785707.index
-560540480.index
-2411755957.index
 575340225.index
-2802561790.index
 560541741.index
 623327960.index
 3157158754.index

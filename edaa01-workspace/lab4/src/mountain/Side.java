@@ -12,8 +12,12 @@ public class Side {
 	
 	@Override
 	public boolean equals(Object a) {
-		Side b = (Side) a;
-		return (p1.equals(b.p1) && (p2.equals(b.p2)) || (p1.equals(b.p2)) && (p2.equals(b.p1)));
+		if (a instanceof Side) {
+			Side b = (Side) a;
+			return (p1.equals(b.p1) && (p2.equals(b.p2)) || (p1.equals(b.p2)) && (p2.equals(b.p1)));
+		} else	{
+			return false;
+		}
 	}
 	
 	@Override
